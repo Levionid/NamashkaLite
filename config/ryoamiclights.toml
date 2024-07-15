@@ -1,0 +1,50 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				bee = true
+				arrow = true
+				donkey = true
+				cow = true
+				bogged = true
+				chest_minecart = true
+				pig = true
+				slime = true
+				skeleton = true
+				iron_golem = true
+				bat = true
+				frog = true
+				cat = true
+				zombie = true
+				wind_charge = true
+				drowned = true
+				sheep = true
+				experience_orb = true
+				player = true
+				item = true
+				potion = true
+				turtle = true
+				wolf = true
+				villager = true
+				salmon = true
+				zombie_villager = true
+				horse = true
+				cave_spider = true
+				glow_squid = true
+				cod = true
+				witch = true
+				warden = true
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+
