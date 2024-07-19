@@ -50,7 +50,7 @@ highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","presencefootsteps:default_sound_pack","continuity:default","continuity:glass_pane_culling_fix","file/НамашкаRP.zip","file/VisibleOres2.10.zip","cullleaves:smartleaves"]
 incompatibleResourcePacks:["appleskin","jade","modernfix","resourcify","rrls","voxelmap","yet_another_config_lib_v3","file/НамашкаRP.zip","file/VisibleOres2.10.zip"]
-lastServer:bugg.aternos.host:47222
+lastServer:
 lang:ru_ru
 chatVisibility:0
 chatOpacity:1.0
